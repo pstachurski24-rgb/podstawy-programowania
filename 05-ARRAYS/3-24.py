@@ -1,0 +1,13 @@
+
+import random
+
+def rand_elem(array):
+    return random.choice(array)
+
+
+arr = [10, 20, 30, 40, 50]
+
+print("Array:", arr)
+
+for i in range(5):
+    print("Random element:", rand_elem(arr))
