@@ -1,0 +1,12 @@
+{
+  "table": "C",
+  "currency": "euro",
+  "code": "EUR",
+  "rates": [
+    {
+      "effectiveDate": "2026-01-02",
+      "bid": 4.1,
+      "ask": 4.2
+    }
+  ]
+}

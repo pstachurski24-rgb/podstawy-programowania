@@ -1,0 +1,17 @@
+[
+  {
+    "room": 101,
+    "paid": true,
+    "amount": 450.0
+  },
+  {
+    "room": 102,
+    "paid": false,
+    "amount": 300.0
+  },
+  {
+    "room": 101,
+    "paid": true,
+    "amount": 200.0
+  }
+]
