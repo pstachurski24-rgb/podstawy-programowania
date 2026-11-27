@@ -1,0 +1,7 @@
+index.html
+script.py
+photo.jpeg
+archive.zip
+config.yaml
+report.docx
+notes.txt

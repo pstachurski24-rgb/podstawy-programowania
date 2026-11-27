@@ -1,0 +1,5 @@
+Shopping report
+Coffee: €12.50
+Lunch: 7,40 €
+Snack: 3 €
+Total is not provided; calculate it.

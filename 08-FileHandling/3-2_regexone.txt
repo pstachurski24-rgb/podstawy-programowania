@@ -1,0 +1,3 @@
+Section 3, item 2: online exercise (not a Python program).
+Complete interactive exercises at https://regexone.com/
+The source specifies completion of the tutorial; it does not supply a local automated solution.

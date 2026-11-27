@@ -1,0 +1,8 @@
+From: alice@example.com
+To: bob@example.com
+Subject: Project update
+
+Hello Bob,
+The report is ready.
+Regards,
+Alice
